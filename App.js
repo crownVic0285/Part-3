@@ -12,8 +12,8 @@ function App () {
                 hobbies={['walking', 'biking', 'swimming']}
             />
             <Person
-                name="Joe"
-                age={24}
+                name="Joey"
+                age={16}
                 hobbies={['drawing', 'painting', 'reading']}
             />
             <Person
